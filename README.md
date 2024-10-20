@@ -5,4 +5,6 @@
 - HTML,
 - SCSS,
 - Gulp,
-- JS 
+- JS
+
+  Посмотреть [демо](https://galinaguseva.github.io/Modimall/)
